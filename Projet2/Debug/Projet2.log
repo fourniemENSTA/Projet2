@@ -1,0 +1,6 @@
+﻿  BE_note.c
+c:\users\fourniem\documents\visual studio 2015\projects\projet2\projet2\be_note.c(209): warning C4047: 'fonction' : les niveaux d'indirection de 'liste *' et de 'liste **' sont différents
+c:\users\fourniem\documents\visual studio 2015\projects\projet2\projet2\be_note.c(209): warning C4024: 'ajouteEnTete' : types différents pour le paramètre formel et réel 1
+c:\users\fourniem\documents\visual studio 2015\projects\projet2\projet2\be_note.c(229): warning C4715: 'tri' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet2.vcxproj -> C:\Users\fourniem\Documents\Visual Studio 2015\Projects\Projet2\Debug\Projet2.exe
+  Projet2.vcxproj -> C:\Users\fourniem\Documents\Visual Studio 2015\Projects\Projet2\Debug\Projet2.pdb (Partial PDB)
